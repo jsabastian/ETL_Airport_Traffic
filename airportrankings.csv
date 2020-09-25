@@ -1,0 +1,52 @@
+id,rank_,year_,airport,iata_code,icao_code,location_,country,"total
+passengers"
+1,1,2016,Hartsfield-Jackson Atlanta International Airport,ATL,KATL,"Atlanta, Georgia",United States,104171935
+2,2,2016,Beijing Capital International Airport,PEK,ZBAA,"Chaoyang-Shunyi, Beijing",China,94393454
+3,3,2016,Dubai International Airport,DXB,OMDB,"Garhoud, Dubai",United Arab Emirates,83654250
+4,4,2016,Los Angeles International Airport,LAX,KLAX,"Los Angeles, California",United States,80921527
+5,5,2016,Tokyo International Airport,HND,RJTT,"Ota, Tokyo",Japan,79699762
+6,6,2016,O'Hare International Airport,ORD,KORD,"Chicago, Illinois",United States,78327479
+7,7,2016,Heathrow Airport,LHR,EGLL,"Hillingdon, London",United Kingdom,75715474
+8,8,2016,Hong Kong International Airport,HKG,VHHH,"Chek Lap Kok, Hong Kong",China,70314462
+9,9,2016,Shanghai Pudong International Airport,PVG,ZSPD,"Pudong, Shanghai",China,66002414
+10,10,2016,Charles de Gaulle Airport,CDG,LFPG,"Paris (Roissy-en-France), Île-de-France",France,65933145
+11,11,2016,Dallas/Fort Worth International Airport,DFW,KDFW,"Dallas-Fort Worth, Texas",United States,65670697
+12,12,2016,Amsterdam Airport Schiphol,AMS,EHAM,"Haarlemmermeer, North Holland",The Netherlands,63625534
+13,13,2016,Frankfurt Airport,FRA,EDDF,"Frankfurt, Hesse",Germany,60786937
+14,14,2016,Istanbul Atatürk Airport,IST,LTBA,"Yesilköy, Istanbul",Turkey,60248741
+15,15,2016,Guangzhou Baiyun International Airport,CAN,ZGGG,"Baiyun-Huadu, Guangzhou, Guangdong",China,59732147
+16,16,2016,John F. Kennedy International Airport,JFK,KJFK,"Queens, New York City, New York",United States,58813103
+17,17,2016,Singapore Changi Airport,SIN,WSSS,"Changi, Singapore",Singapore,58698000
+18,18,2016,Denver International Airport,DEN,KDEN,"Denver, Colorado",United States,58266515
+19,19,2016,Seoul Incheon International Airport,ICN,RKSI,Incheon,Republic of Korea,57849814
+20,20,2016,Suvarnabhumi Airport,BKK,VTBS,"Bang Phli, Samut Prakan",Thailand,55892428
+21,21,2016,Indira Gandhi International Airport,DEL,VIDP,Delhi,India,55631385
+22,22,2016,Soekarno–Hatta International Airport,CGK,WIII,"Benda, Tangerang, Banten",Indonesia,54969536
+23,23,2016,San Francisco International Airport,SFO,KSFO,"San Mateo County, California",United States,53099282
+24,24,2016,Kuala Lumpur International Airport,KUL,WMKK,"Sepang, Selangor",Malaysia,52640043
+25,25,2016,Madrid Barajas Airport,MAD,LEMD,"Barajas, Madrid",Spain,50397928
+26,26,2016,McCarran International Airport,LAS,KLAS,"Las Vegas, Nevada",United States,47496614
+27,27,2016,Chengdu Shuangliu International Airport,CTU,ZUUU,"Shuangliu-Wuhou, Chengdu, Sichuan",China,46039137
+28,28,2016,Seattle-Tacoma International Airport,SEA,KSEA,"SeaTac, Washington",United States,45736700
+29,29,2016,Chhatrapati Shivaji International Airport,BOM,VABB,"Mumbai, Maharashtra",India,44680555
+30,30,2016,Miami International Airport,MIA,KMIA,"Miami-Dade County, Florida",United States,44584603
+31,31,2016,Charlotte Douglas International Airport,CLT,KCLT,"Charlotte, North Carolina",United States,44422022
+32,32,2016,Toronto Pearson International Airport,YYZ,CYYZ,"Mississauga, Ontario",Canada,44335198
+33,33,2016,Barcelona–El Prat Airport,BCN,LEBL,"El Prat, Catalonia",Spain,44131031
+34,34,2016,Phoenix Sky Harbor International Airport,PHX,KPHX,"Phoenix, Arizona",United States,43302381
+35,35,2016,Gatwick Airport,LGW,EGKK,"Crawley, West Sussex",United Kingdom,43136795
+36,36,2016,Taiwan Taoyuan International Airport,TPE,RCTP,"Dayuan, Taoyuan",Taiwan,42296322
+37,37,2016,Munich Airport,MUC,EDDM,"Freising, Bavaria",Germany,42261309
+38,38,2016,Sydney Kingsford-Smith Airport,SYD,YSSY,"Mascot, Sydney, New South Wales",Australia,41985810
+39,39,2016,Kunming Changshui International Airport,KMG,ZPPP,"Guandu, Kunming, Yunnan",China,41980515
+40,40,2016,Shenzhen Bao'an International Airport,SZX,ZGSZ,"Bao'an, Shenzhen, Guangdong",China,41975090
+41,41,2016,Orlando International Airport,MCO,KMCO,"Orlando, Florida",United States,41923399
+42,42,2016,Leonardo da Vinci–Fiumicino Airport,FCO,LIRF,"Fiumicino, Lazio",Italy,41738662
+43,43,2016,George Bush Intercontinental Airport,IAH,KIAH,"Houston, Texas",United States,41622594
+44,44,2016,Benito Juárez International Airport,MEX,MMMX,"Venustiano Carranza, Mexico City",Mexico,41410254
+45,45,2016,Shanghai Hongqiao International Airport,SHA,ZSSS,"Changning-Minhang, Shanghai",China,40460135
+46,46,2016,Newark Liberty International Airport,EWR,KEWR,"Newark, New Jersey",United States,40289969
+47,47,2016,Ninoy Aquino International Airport,MNL,RPLL,"Pasay/Parañaque, Metro Manila",Philippines,39534991
+48,48,2016,Narita International Airport,NRT,RJAA,"Narita, Chiba",Japan,39000563
+49,49,2016,Minneapolis/St Paul International Airport,MSP,KMSP,"St. Paul, Minnesota",United States,37413728
+50,50,2016,Hamad International Airport,DOH,OTHH,Doha,Qatar,37283987
