@@ -1,7 +1,7 @@
 # What's the rush?
 
 EXTRACT:
-    Searching Kaggle, I found some airport .csv data that contained city, state, latitude, longitude, and airport codes for airports located in the United States. I also located .csv data for busiest world aiports. I thought I could join the data to give the rank of U.S. airports in 2016, as well as lat and long data that could possibly be used to locate the nearest Chipotle.
+    Searching Kaggle, I found some airport .csv data that contained city, state, latitude, longitude, and airport codes for airports located in the United States. I also located .csv data for busiest world aiports. I thought I could join the data to give the rank of U.S. airports in 2016, as well as lat and long data that could possibly be used to locate the nearest Chipotle... because it's so delicious.
 
 TRANSFORM:
     I inially did some formatting of column headers for the world airport data in excel. I filtered down to the 2016 year, and renamed columns so that they did nor interfere with table creation in Pgadmin. Then I cleaned the data using python and pandas:
