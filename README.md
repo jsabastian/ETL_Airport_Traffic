@@ -1,4 +1,4 @@
-# ETL-US_AIRPORT_RANK_2016
+# What's the rush?
 
 EXTRACT:
     Searching Kaggle, I found some airport .csv data that contained city, state, latitude, longitude, and airport codes for airports located in the United States. I also located .csv data for busiest world aiports. I thought I could join the data to give the rank of U.S. airports in 2016, as well as lat and long data that could possibly be used to locate the nearest Chipotle.
